@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/eongering/palindrome/issues"
   },
-  "homepage": "https://github.com/eongering/palindrome#readme"
+  "homepage": "https://github.com/eongering/palindrome#readme",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
 }
